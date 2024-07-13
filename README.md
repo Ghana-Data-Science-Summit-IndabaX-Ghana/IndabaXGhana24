@@ -4,9 +4,6 @@ Welcome to the tutorials offered at the Ghana Data Science Summit dubbed IndabaX
 
 ![Project Header](images/project_header.png)
 *Event Website: [IndabaX Ghana](https://www.indabaxghana.com/)*
-
-
-## **Introduction**
 This year’s IndabaX Ghana is our 5th annual conference, which aims to strengthen and showcase advancements in the fields of Artificial Intelligence and Machine Learning, particularly in the African context. Over the past 4-5 years, IndabaX Ghana has successfully brought together over 1,000 researchers, professionals, faculty and students in Data Science and Machine Learning in Ghana and beyond. There is a deliberate focus on encouraging more women and youth to attend, having attendees from all sixteen regions in Ghana, and inclusion of recognised minority groups.
 
 
