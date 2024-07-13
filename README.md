@@ -1,9 +1,14 @@
 # Ghana Data Science Summit IndabaXGhana'24 Tutorials
 
-Welcome to the tutorials offered at the Ghana Data Science Summit dubbed IndabaXGha! We have structured the tutorials into three tracks to cater to different levels of expertise: **Beginner**, **Intermediate**, and **Expert**.
+Welcome to the tutorials offered at the Ghana Data Science Summit dubbed IndabaXGhana! We have structured the tutorials into three tracks to cater to different levels of expertise: **Beginner**, **Intermediate**, and **Expert**.
 
 ![Project Header](images/project_header.png)
-*Image Source: [IndabaX Ghana](https://www.indabaxghana.com/)*
+*Event Website: [IndabaX Ghana](https://www.indabaxghana.com/)*
+
+
+## **Introduction**
+This year’s IndabaX Ghana is our 5th annual conference, which aims to strengthen and showcase advancements in the fields of Artificial Intelligence and Machine Learning, particularly in the African context. Over the past 4-5 years, IndabaX Ghana has successfully brought together over 1,000 researchers, professionals, faculty and students in Data Science and Machine Learning in Ghana and beyond. There is a deliberate focus on encouraging more women and youth to attend, having attendees from all sixteen regions in Ghana, and inclusion of recognised minority groups.
+
 
 ## **Beginner Track**
 ### 1. Building Your First Deep Learning Model
@@ -18,7 +23,7 @@ Welcome to the tutorials offered at the Ghana Data Science Summit dubbed IndabaX
 
 ### 4. Advanced ML on Data Science
 - [Open in Colab](https://colab.research.google.com/drive/1oI2dJuix4k35lYUddN_PbncNaqO_Sgbr?usp=sharing) 
-- [Slides](https://docs.google.com/presentation/d/1s9Yvj4Rjp_hl8WzC-KP3QcxLWndy-Upy/edit?usp=sharing&ouid=101955234942298368165&rtpof=true&sd=true)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSK_C-__Wj20lhNVa_HwQROBy2c-gBtdWMuuj2W6XfxO5D-dQvyAsXyIUH1PRU9Mw/pub?start=false&loop=false&delayms=3000)
 
 ## **Expert Track**
 ### 5. Gait Recognition with CNN
