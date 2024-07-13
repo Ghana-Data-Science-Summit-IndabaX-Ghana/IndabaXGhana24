@@ -2,7 +2,7 @@
 
 Welcome to the tutorials offered at the Ghana Data Science Summit dubbed IndabaXGha! We have structured the tutorials into three tracks to cater to different levels of expertise: **Beginner**, **Intermediate**, and **Expert**.
 
-![Project Header](figs/project_header.png)
+![Project Header](images/project_header.png)
 *Image Source: [IndabaX Ghana](https://www.indabaxghana.com/)*
 
 ## **Beginner Track**
