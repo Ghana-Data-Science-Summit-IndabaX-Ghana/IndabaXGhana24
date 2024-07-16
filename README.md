@@ -9,7 +9,7 @@ This year’s IndabaX Ghana is our 5th annual conference, which aims to strength
 
 ## **Beginner Track**
 ### 1. Building Your First Deep Learning Model
-- [Open in Colab](#yettoadd) 
+- [Open in Colab](https://colab.research.google.com/drive/1tBPVMRV-nYYdUg8c_UZVxUfAU6QvYRlm?usp=sharing) 
 
 ### 2. Python Programming for AI/ML
 - [Open in Colab](https://colab.research.google.com/drive/1V519DQbptRKUrhU6Xo5J7h0oEEqtQSay?usp=sharing) 
@@ -19,7 +19,7 @@ This year’s IndabaX Ghana is our 5th annual conference, which aims to strength
 - [Open in Colab](https://colab.research.google.com/drive/18di_gO8bnK-ifgYR83X9FfXDxvhHBrjC?usp=sharing) 
 
 ### 4. Advanced ML on Data Science
-- [Open in Colab](https://colab.research.google.com/drive/1oI2dJuix4k35lYUddN_PbncNaqO_Sgbr?usp=sharing) 
+- [Open in Colab](https://colab.research.google.com/drive/1xQoSIVjfPzlyQ7uZbly8vbFy7RC6-EIe) 
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSK_C-__Wj20lhNVa_HwQROBy2c-gBtdWMuuj2W6XfxO5D-dQvyAsXyIUH1PRU9Mw/pub?start=false&loop=false&delayms=3000)
 
 ## **Expert Track**
